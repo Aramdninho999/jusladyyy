@@ -1,0 +1,71 @@
+¿Qué es una aplicación ofimática y para qué sirve?
+Para empezar, cabe acotar que el término “ofimática” se refiere al acrónimo de “oficina” e “informática”. De allí, la ofimática se puede definir como el conjunto de técnicas, aplicaciones y herramientas informáticas que se emplean en funciones de oficina con el objetivo de mejorar, optimizar y automatizar todos los procedimientos o tareas relacionadas. Esta, también se conoce como “automatización de oficinas” o “automatización de escritorios”.
+
+PUBLICIDAD
+
+En este sentido, las aplicaciones ofimáticas son una agrupación de programas que proporcionan diversas funcionalidades y se consideran de uso completamente extendido en el terreno profesional y también a nivel personal y académico. Las cuales, son capaces de idear, crear, dirigir, trasmitir y guardar la información necesaria en estos entornos.
+
+Por consiguiente, las aplicaciones de tipo ofimático sirven para ayudar a agilizar y motorizar cualquier actividad que pueda hacerse de forma manual en una oficina, por ejemplo. Ya sea con respecto a la mecanografía, gestión de archivos y documentos, dictado, fax, archivado, microfilmado, etc.
+
+Adicional a ello, estas aplicaciones tan útiles proporcionan gran facilidad al momento de compartir archivos y, también permiten modificar documentos en tiempo real y hasta con varios usuarios.
+
+¿Cuáles son las aplicaciones ofimáticas más utilizadas e importantes en la actualidad?
+Ahora bien, te preguntarás cuales son los tipos de apps ofimáticas que existen y bien, las más usadas e importantes hoy en día; por lo que, en esta sección del post te damos a conocer las principales aplicaciones de dicha clase que también se pueden identificar como los elementos de integrantes de un paquete ofimático:
+
+¿Cuáles son las aplicaciones ofimáticas más utilizadas e importantes en la actualidad?
+Procesadores
+También conocidos como “procesamiento de textos”, estas aplicaciones ofimáticas son las más utilizadas. Puesto que, se trata de una clase de software con múltiples funcionalidades para la redacción con diversos tamaños y tipografías de letras y caracteres, al igual que varios tipos de párrafos, colores, efectos artísticos y más opciones.
+
+De esa forma, son programas netamente destinados a crear cualquier tipo de texto de una forma simple y rápida con el objetivo de producir documentos escritos sin ninguna restricción, a diferencia de los editores de texto que solo manejan texto simple. En tal sentido, los procesadores de texto admiten la creación, modificación, edición y procesamiento de cualquier escrito con varios formatos.
+
+Hojas de cálculo
+Estas apps se encuentran destinadas a almacenar, seccionar datos y efectuar cálculos, al igual que análisis sobre los mismos. Es decir que, se fundamentan en un tipo de documento que facilita la manipulación de datos números y alfanúmeros que se disponen en forma de tablas, generalmente compuestas por celdas. Dichas, suelen organizarse en una matriz bidimensional de columnas y filas.
+
+Cabe destacar que, los datos introducidos en estos programas pueden ser textos, números, fechas o cualquier otro. Ya que, a partir de ellos, podrá ordenar, organizar y calcular nuevos datos. Adicionalmente, ofrece a los usuarios la obtención de gráficos basados en los datos añadidos en las tablas. Gracias a esto, son herramientas empleadas por multitud de profesionales, hoy en día.
+
+Bases de datos
+Por lo general, se les conoce como “gestores de bases de datos” y también como “sistema gestor de base de datos (SGBD)”, siendo estas aplicaciones aquellas que están destinadas a la creación, modificación, actualización, realización y almacenamiento de informes escritos sobre una información que se encuentra contenida en una base de datos.
+
+En este sentido, los usuarios pueden acceder a la información haciendo uso de herramientas específicas de generación de informes y de consulta. Sumado a ello, este tipo de sistemas proporcionan métodos para mantener la seguridad y privacidad de los datos, también para gestionar el acceso de usuarios a los mismos y hasta para poder recuperar la información en caso de que el sistema se corrompa.
+
+Cabe destacar que, existen tres tipos de bases de datos y son:
+
+Las bases de datos jerárquicas.
+Bases de datos en red.
+Bases de datos relacional.
+Editores de imágenes
+Son aplicaciones ofimáticas que se encargan y facilitan el tratamiento y manipulación de imágenes, fotos, vídeos y todo este tipo de elementos. De forma tal que, permiten a sus usuarios editar de la forma más simple las imágenes y vídeos al poder reducirlas, recortarlas, ampliarlas y retocarlas. Pero también, admiten la manera más compleja para hacerlo, pues tiene la capacidad de realizar montajes, animar vídeos y figuras con el fin de optimizar tus presentaciones.
+
+¿Cuáles serán las tecnologías del futuro que cambiarán el mundo tal y como lo conocemos hoy? Lista 2023
+Sumado a ello y entre otros detalles, lo editores de imagen te ofrecen la posibilidad de crear ajustes de corrección, trabajar por medio de capas, modificar la resolución a tu gusto, etc.
+
+Es oportuno acotar que, existen varios tipos y entre los más importantes ubicamos los siguientes:
+
+De diseño: Usualmente, se trata de herramientas que simplifican la creación de gráficos y el retoque de imágenes con gran calidad.
+De fotografía: De forma puntual, estas se encargan de retocar y manipular las imágenes y fotos a partir de varias herramientas que contienen.
+De dibujo y pintura: Son aquellas que permiten la edición gráfica, de fotografías, mapas de bits, pueden crear y ver animaciones GIF, aplicar filtros y transformaciones, ajustar los colores en los elementos fotográficos, utilizar cuadros de vídeos y capturar cuadros desde cámaras de vídeo.
+De animaciones: Proporcionan las opciones necesarias para convertir secuencias de vídeo en animaciones en formato GIF, PNG, JPEG, TIF y BPM.
+De CAD: Básicamente, funcionan para la creación de diseños en 2D y 3D.
+DE 3D: Te permiten diseñar y crear gráficos, netamente, en tres dimensiones.
+Editores de presentaciones
+En diversas ocasiones, debes hacer presentaciones para exponer algún trabajo en tu universidad o trabajo, por lo que te surge el requerimiento de recurrir a este tipo de programas o aplicaciones. Las cuales, facilitan la creación de atractivas presentaciones son suma rapidez y sencillez.
+
+Entre sus particularidades de mayor relevancia, cabe destacar que estos editores de presentaciones te permiten incluir texto, al igual que imágenes, animaciones y colores para que puedas hacerlas a tu gusto y sean realmente interesantes. Adicional a ello, también se pueden realizar presentaciones con plantillas y hasta insertar sonidos y animaciones en tus diapositivas, teniendo además la posibilidad de publicarlas en Internet directamente desde la aplicación ofimática.
+
+Editores de proyecto
+De manera básica, estas aplicaciones informáticas y de oficina son aquellas que te permiten gestionar tus proyectos. Lo que significa que, simplifican la organización de todos los datos contenidos, al igual que la programación de tareas y la gestión de los recursos necesarios para poder alcanzar un objetivo determinado. Por supuesto, teniendo presente el presupuesto y los plazos de tiempo concretos.
+
+Por su parte, con respecto a sus funciones más significativas, acotamos que se refieren a la programación de deberes, una óptima comunicación entre los miembros del equipo del proyecto, la asignación de tiempo a las tareas. Además de, la administración de los recursos con respecto a los materiales y costos, el seguimiento de todas las acciones y la presentación del proyecto final.
+
+Editores de páginas web
+Este tipo de aplicaciones ofimáticas, también son conocidas como “editores HTML” y se pueden definir como aquellas aplicaciones que te permiten crear páginas web fácilmente, ya que no es necesario conocer dicho lenguaje de programación para lograrlo, es decir, el HTML.
+
+Generalmente, la mayoría de las suites ofimáticas y sobretodo, los procesadores de texto que incluyen; cuentan con opciones para realizar páginas web y también para convertir el contenido los documentos en versiones que logren exportarse a los sitios web.
+
+Por otro lado, se distinguen varios tipos de editores de páginas web y los más reconocidos son los siguientes:
+
+Editores visuales: Estos te ofrece la posibilidad de trabajar tal y como si estuvieras editando la página web directamente. Lo que quiere decir que, no se ven los códigos sino los elementos (así como se visualizan en un navegador).
+Aquellos que operan con códigos: Son editores en modo de texto que cuentan con una serie de menús y barra de herramientas que te permiten elegir etiquetas de html. Pero, para hacer uso de estas aplicaciones, los usuarios deben conocer el lenguaje de programación.
+Los editores mixtos: Se tratan de los editores que presentan características de los dos tipos anteriores. Es decir que, puedes escoger entre una y otra forma de trabajar y también añadir o cambiar ciertos parámetros en cualquiera de los dos sistemas.
+Maquetadores
+Se refieren a toda clase de aplicaciones que simplifican la edición de texto a nivel profesional. Puesto que, contienen un conjunto de herramientas que se han diseñado especialmente para maquetas complejas con el objetivo de editar libros, revistas, folletos y todo este tipo de publicaciones. Con esto, posibilitan la creación de textos con calidad profesional para imprenta o distribución de forma comercial.

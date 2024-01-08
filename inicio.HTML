@@ -1,0 +1,442 @@
+<!doctype html>
+<html>
+<head>
+<title>Mi pagina web</title>
+<H1><FONT SIZE=8><CENTER>PROYECTO TÉCNICO</CENTER></FONT size></H1>
+ <meta name="viewport"
+        content="width=device-width, initial-scale=1">
+     
+    <link rel="stylesheet" href=
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ 
+   <style>
+        body {
+            background-color: #52BE80;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .menu {
+            background-color: #fff;
+            display: flex;
+            justify-content: center;
+            padding: 10px 0;
+        }
+
+        .menu-item {
+            position: relative;
+        }
+
+        .menu a {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 0 10px;
+            color: #000;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .menu a:hover {
+            background-color: #ddd;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #fff;
+            box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+            z-index: 1;
+            text-align: center;
+            border-radius: 5px;
+            top: 100%;
+            left: 0;
+        }
+
+        .menu-item:hover .dropdown-content {
+            display: block;
+        }
+
+        .dropdown-content a {
+            display: block;
+            padding: 10px;
+            text-decoration: none;
+            color: #000;
+            border-radius: 5px;
+        }
+
+        .dropdown-content a:hover {
+            background-color: #ddd;
+        }
+
+        .menu a.redirect {
+            font-weight: bold;
+        }
+
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .rotate {
+            animation: rotate 2s infinite linear;
+        }
+
+        @keyframes rotate {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .table {
+            width: 100%;
+            margin-bottom: 20px;
+            border-collapse: collapse;
+        }
+
+        .table th,
+        .table td {
+            padding: 10px;
+            border: 1px solid #fff;
+        }
+
+        .table th {
+            background-color: #194d5f;
+            color: #fff;
+            text-align: left;
+        }
+
+        .table td {
+            background-color: #fff;
+            color: #000;
+        }
+
+        .table tr:hover td {
+            background-color: #ddd;
+        }
+    </style>
+</head>
+
+<body>
+    <center>
+        <!-- Navbar items -->
+        <div class="menu">
+            <div class="menu-item">
+                <a href="inicio.HTML">DISEÑO PRIMER/SEGUNDO TRIMESTRE
+                    <div class="dropdown-content">
+                        <a href="#">Primer Trimestre</a>
+                        <a href="#">Segundo Trimestre</a>
+                    </div>
+                </a>
+            </div>
+
+            <div class="menu-item">
+                <a href="Tabla.HTML">Asignaturas
+                    <div class="dropdown-content">
+                        <a href="#">Primer Trimestre</a>
+                        <a href="#">Segundo Trimestre</a>
+                    </div>
+                </a>
+            </div>
+
+            <div class="menu-item">
+                <a href="Soporte.HTML">Soporte Técnico</a>
+                <div class="dropdown-content">
+                    <a href="#">Primer Trimestre</a>
+                    <a href="#">Segundo Trimestre</a>
+                </div>
+            </div>
+
+            <div class="menu-item">
+                <a href="Sistemas.HTML">Sistemas Operativos</a>
+                <div class="dropdown-content">
+                    <a href="#">Primer Trimestre</a>
+                    <a href="#">Segundo Trimestre</a>
+                </div>
+            </div>
+
+            <div class="menu-item">
+                <a href="pyb.HTML">P y Base de Datos</a>
+                <div class="dropdown-content">
+                    <a href="#">Primer Trimestre</a>
+                    <a href="#">Segundo Trimestre</a>
+                </div>
+            </div>
+
+            <div class="menu-item">
+                <a href="Diseño.HTML">Diseño WEB</a>
+                <div class="dropdown-content">
+                    <a href="#">Primer Trimestre</a>
+                    <a href="#">Segundo Trimestre</a>
+                </div>
+            </div>
+
+            <div class="menu-item">
+                <a href="aoll.HTML">AOLL
+                    <div class="dropdown-content">
+                        <a href="#">Primer Trimestre</a>
+                        <a href="#">Segundo Trimestre</a>
+                    </div>
+                </a>
+            </div>
+
+            <div class="menu-item">
+                <a href="Proyecto.HTML">Proyecto Técnico
+                    <div class="dropdown-content">
+                        <a href="#">Primer Trimestre</a>
+                        <a href="#">Segundo Trimestre</a>
+                    </div>
+                </a>
+            </div>
+        </div>
+   
+
+<table style="width: 800px; margin: 0 auto; background-color: black; color: white;">
+    <tr>
+        <th style="border: solid black; background-color: black;" colspan="2">
+            <h2 style="text-align: center;">PRIMER TRIMESTRE</h2>
+        </th>
+    </tr>
+    <tr>
+        <td style="width: 400px; border: solid black; background-color: black; padding: 10px;">
+            <p>
+                Joomla es un sistema de gestión de contenidos (CMS, por sus siglas en inglés) de código abierto que permite crear y gestionar sitios web y aplicaciones en línea. Fue lanzado por primera vez en 2005 y desde entonces ha ganado popularidad como una plataforma flexible y robusta para la creación de sitios web. Algunas características clave de Joomla incluyen:
+            </p>
+            <ul>
+                <li>Gestión de Contenidos: Permite crear, editar, gestionar y organizar contenido de manera eficiente.</li>
+                <li>Extensiones y Plantillas: Joomla es altamente modular y extensible.</li>
+                <li>Comunidad Activa: Joomla cuenta con una comunidad activa de desarrolladores y usuarios.</li>
+                <li>Gestión de Usuarios: Proporciona un sistema de gestión de usuarios robusto.</li>
+                <li>Multiidioma: Joomla tiene soporte incorporado para sitios web multilingües.</li>
+                <li>Seguridad: Se le da importancia a la seguridad en Joomla.</li>
+            </ul>
+        </td>
+        <td style="width: 400px; border: solid black; background-color: black; padding: 10px;">
+            <center><img src="joomla.png" height="250px" width="250px" alt="Joomla Logo"></center>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 400px; border: solid black; background-color: black; padding: 10px;">
+            <h2 style="text-align: center;">WORDPRESS</h2>
+            <p>
+                WordPress es otro sistema de gestión de contenidos (CMS) de código abierto, y es uno de los más populares y utilizados en la actualidad. Fue lanzado por primera vez en 2003 y ha evolucionado para convertirse en una plataforma versátil y amigable para la creación y gestión de sitios web. Algunas características clave de WordPress incluyen:
+            </p>
+            <ul>
+                <li>Facilidad de Uso: WordPress es conocido por su interfaz de usuario intuitiva y fácil de usar.</li>
+                <li>Amplia Variedad de Temas y Plugins: Ofrece una amplia gama de temas (plantillas) y plugins.</li>
+                <li>Comunidad Activa: Al igual que Joomla, WordPress cuenta con una comunidad activa.</li>
+                <li>Blogs y Sitios Web de Contenido: WordPress se originó como una plataforma de blogs.</li>
+                <li>SEO Integrado: WordPress incluye características amigables con los motores de búsqueda.</li>
+                <li>Escalabilidad: Aunque es fácil para principiantes, WordPress es lo suficientemente poderoso.</li>
+            </ul>
+        </td>
+        <td style="width: 400px; border: solid black; background-color: black; padding: 10px;">
+            <center><img src="wordp.png" height="250px" width="250px" alt="WordPress Logo"></center>
+        </td>
+    </tr>
+</table>
+
+
+
+
+
+ <style>
+        table {
+            width: 80%;
+            margin: auto;
+            border-collapse: collapse;
+            background-color: black;
+            color: white;
+        }
+
+        th, td {
+            border: 1px solid white;
+            padding: 15px;
+            text-align: left;
+        }
+
+        th {
+            background-color: black;
+            color: white;
+        }
+
+        h1, h2, p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+
+<table>
+    <tr>
+        <th colspan="2">
+            <h1>9 Beneficios de una Página Web</h1>
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <h2>Mejorar la imagen:</h2>
+            <p>Tener una página web permitirá plasmar todo tu contenido en ella y mostrará una imagen sólida y coherente de tu marca. El diseño de tu web dará a tus futuros clientes una idea de cómo es la marca, permitiendo que comprendan el mensaje que quieres transmitir.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h2>Posicionar la marca:</h2>
+            <p>Contar con un espacio digital es fundamental hoy en día. Tener una página web te dará una posición de marca y reconocimiento a nivel local y nacional. Puedes llegar a cualquier número de personas y debes tener una estrategia que incluya el posicionamiento SEO y SEM, aprovechando herramientas gratuitas como Google AdWords.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h2>Nuevos clientes y mercados:</h2>
+            <p>Las páginas web están diseñadas para ser vistas desde cualquier parte del mundo. Tienes la posibilidad de abrir fronteras y llegar a clientes que no pueden visitar tu negocio físico. Acompañado de una estrategia de pago, tus servicios o productos pueden llegar a cualquier lugar que desees.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h2>Fideliza a los clientes:</h2>
+            <p>A través de la página web, podrás conocer los gustos de tus clientes y saber qué es lo que quieren y que no. Así podrás ofrecerle a tu público objetivo lo que buscan, logrando que sean fieles a tu marca. Utiliza chats en línea para brindar seguridad y resolver dudas de los clientes al momento de la compra o visita en la web con preguntas frecuentes.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h2>Incrementa las ventas:</h2>
+            <p>Aumentar tu visibilidad en internet puede hacer que tus ventas aumenten. Una página web bien estructurada hará que tus clientes se fidelicen contigo. A medida que la marca se consolida y se vuelve más fuerte y reconocida, aumentarás el valor de ella y se incrementarán las ventas.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h2>Escaparate virtual:</h2>
+            <p>Otro beneficio de una página web es la posibilidad de mostrar tus servicios o productos de diversas maneras, ya sea con imágenes o videos. Puedes ofrecer un servicio al cliente completo, mostrando la disponibilidad o incluso recomendaciones basadas en un producto hacia otro. Esto permite que el cliente vea todos tus productos sin salir de la web.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h2>Servicio 24 horas:</h2>
+            <p>Permitir que tu negocio esté abierto todos los días del año y a cualquier hora sería un gasto desorbitado para las pequeñas empresas. Gracias a las páginas webs, los usuarios pueden acceder en cualquier momento y desde cualquier lugar.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h2>Relación coste-beneficio:</h2>
+            <p>La creación de una página web tiene costos más bajos que cualquier otro medio de publicidad. Aunque hay una inversión inicial elevada, a corto plazo se convertirá en un costo bajo de mantenimiento. A largo plazo, terminarás amortizando este dinero y obteniendo mayores beneficios que usando la publicidad tradicional.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h2>Posiciona en los buscadores:</h2>
+            <p>Otra ventaja de tener un sitio web es mejorar tu posición en los buscadores. Esto es posible gracias a las estrategias SEO que implementes en tu plan de marketing junto con una buena estrategia en tus redes sociales. Tener presencia en internet y aparecer entre los primeros en los buscadores genera mayor confianza en tus productos o servicios.</p>
+        </td>
+    </tr>
+</table>
+
+   
+    <br>
+    <br>
+    <br>
+    <center>
+
+        <table>
+            <tr>
+                <th style="border: solid black; background-color: BLACK;" colspan="2"><h1>CÓDIGO QR</h1></th>
+            </tr>
+            <tr>
+                <td style="width: 500px; border: solid black; background-color: BLACK;">
+                    <p> Un código QR, que significa "Quick Response" o "Respuesta Rápida" en inglés, es un tipo de código de barras bidimensional que fue creado en 1994 por la compañía japonesa Denso Wave. Los códigos QR almacenan información de manera similar a los códigos de barras tradicionales, pero son capaces de contener mucha más información y se pueden escanear de manera más rápida.</p>
+
+                    <p>Un código QR consta de cuadrados negros dispuestos en un patrón sobre un fondo blanco. Puede almacenar diversos tipos de información, como texto, números, direcciones web, coordenadas geográficas, información de contacto, entre otros. Los códigos QR se escanean con la cámara de un dispositivo, como un teléfono inteligente o una tablet, utilizando una aplicación específica para leer códigos QR.</p>
+
+                    <p>Los códigos QR son ampliamente utilizados en diversas aplicaciones, como marketing, publicidad, seguimiento de productos, pagos móviles, ingreso a eventos, entre otros. Al escanear un código QR, el dispositivo puede interpretar la información almacenada en el código y realizar la acción correspondiente, como abrir un sitio web, mostrar información detallada, o realizar una transacción, dependiendo del contenido del código QR.</p>
+<h2><p><b><i><center><font color="red">Tipos:</font color="red"></center></i></b></p></h2>
+<p>Existen varios tipos de códigos QR, y cada uno tiene un propósito específico. Aquí algunos de los tipos más comunes:</p>
+
+<p>•	Códigos QR estándar: Estos son los códigos QR convencionales que pueden almacenar una variedad de datos, como texto, números, enlaces web, direcciones de correo electrónico, entre otros.</p>
+
+<p>•	Códigos QR dinámicos: A diferencia de los códigos QR estándar, los códigos dinámicos pueden ser editados y gestionados incluso después de haber sido creados. Esto permite cambiar la información que contienen sin necesidad de generar un nuevo código QR.</p>
+
+<p>•	Códigos QR en color: Aunque los códigos QR tradicionales son mayormente en blanco y negro, es posible crear códigos QR en color, siempre y cuando haya suficiente contraste entre los elementos oscuros y claros para que el escáner pueda leerlos correctamente.</p>
+<h2><p><b><i><center><font color="orangered">Cómo Crear Uno:</font color="orangered"></center></i></b></p></h2>
+<p>Crear un código QR es un proceso bastante sencillo y hay varias herramientas en línea que te permiten generar códigos QR de manera gratuita. Aquí te doy una guía básica para crear un código QR:</p>
+
+<p>•	Decide qué información quieres codificar: Antes de crear un código QR, determina qué tipo de información deseas incluir, como un enlace web, texto, información de contacto, etc.</p>
+
+<p>•	Selecciona una herramienta en línea: Hay varias herramientas en línea que te permiten generar códigos QR de forma gratuita. Algunas opciones populares incluyen QR Code Generator, QRStuff, entre otras.</p>
+
+<p>•	Ingresa la información: En la herramienta seleccionada, elige el tipo de contenido que deseas codificar (URL, texto, tarjeta de visita, etc.).</p>
+
+<p>•	Genera el código QR: Haz clic en el botón de generación o similar en la herramienta que estás utilizando.</p>
+
+<p>•	Descarga el código QR: Una vez generado, la herramienta te proporcionará el código QR. Puedes descargarlo en tu computadora como una imagen en formato PNG, JPEG u otro formato compatible.</p>
+
+                </td>
+                <td style="width: 500px; border: solid black; background-color: BLACK;">
+                    <center><img src="G:\paaaa\HTML PAGINA\HTML PAGINA\qr\WhatsApp Image 2023-12-18 at 12.03.23.jpeg" width="200" height="200"></center>
+<center><img src="G:\paaaa\HTML PAGINA\HTML PAGINA\qr\qr.jpg" width="200" height="200"></center>
+                </td>
+            </tr>
+        </table>
+    </center>
+<br>
+<br>
+<br>
+<br>
+<center><table>
+<tr>
+<th style="border: solid black; background-color: pink;" colspan="2"><h1>Cómo cree mi Página WEB HTML</h1></th>
+</tr>
+<tr>
+<td style="width: 1000px; border: solid black; background-color: BLACK;">
+<h2><p><b><i><center><font color="red">INICIO:</font color="red"></center></i></b></p></h2>
+
+<p>	Para crear el inicio de mi página html inserte un gif del escudo de la institución Nicolas Infante Díaz, luego los títulos:
+<p>	Para insertar el gif lo descargue como: “girantescudo”, para luego ser lo primero en insertar al inicio con el código: /center//img src="girantescudo.gif" height="100" width="100"// /center siendo que “img src” seria la forma en la que el código busca la imagen en el documento y lo hace mediante el nombre y su tipo de documento, en este caso “.gif”, luego lo centre con “Center” y le di la propiedad de 100 pixeles tanto a la altura “height” y anchura “width”.</p>
+</tr>
+<tr>
+<td style="width: 1000px; border: solid black; background-color: BLACK;">
+<h2><p><b><i><center><font color="indigo">MENÚ:</font color="indigo"></center></i></b></p></h2>
+<img src="ec.png" width="1000" height="200"></center>
+
+<p>Inserte el menú mediante tablas en donde cada celda contenga un link que me dirige hacia las otras páginas de asignaturas mediante el comando “a” que sirve para insertar links.</p>
+<p>Para hacer un menú desplegable utilice un divisor de pantalla que se activa al hacer click al texto “Diseño y Desarrollo Web”, en donde se mostrara el contenido de las páginas de los trimestres de la asignatura, esto se hace con el comando
+<img src="ecc.png" width="1000" height="200"></center>
+ /div class="dropdown-content" id="dropdownContent"/</p>
+</tr>
+<tr>
+<td style="width: 1000px; border: solid black; background-color: BLACK;">
+<h2><p><b><i><center><font color="lime">PÁGINAS DE ASIGNATURAS:</font color="lime"></center></i></b></p></h2>
+<p>•	Para llenarlas básicamente lo que hice fue copiar y pegar el contenido de inicio ya que todas las páginas deben tener el mismo menú y la misma información de presentación: “Nombre, proyecto, institución”, luego use una tabla con dos celdas para que en la celda de izquierda se ponga el contenido descriptivo de la asignatura y en la celda de la derecha se inserta una imagen de la asignatura.</p>
+</tr>
+<tr>
+<td style="width: 1000px; border: solid black; background-color: BLACK;">
+<h2><p><b><i><center><font color="BLACK">PÁGINAS DE TRIMESTRES:</font color="BLACK"></center></i></b></p></h2>
+<p>Básicamente hice lo mismo que en las páginas de asignatura, lo que cambia es el contenido y en el que la página del tercer trimestre contiene el respectivo código QR que se hace primero teniendo que publicar la página en la web..</p>
+</tr>
+<tr>
+<td style="width: 1000px; border: solid black; background-color: BLACK;">
+<h2><p><b><i><center><font color="navy">CÓMO PUBLICAR LA PÁGINA WEB HTML A INTERNET</font color="navy"></center></i></b></p></h2>
+
+<p>Se debe usar un host, una página que los ofrece gratis es “000WebHost”, en donde debes crearte una cuenta, luego presionar en “Crear Página WEB”, ir a administrar sitio, luego “subir archivos” en htdocs y subir los archivos html de tu página y publicarla.</p>
+<p>Por último, para obtener su código qr debes ingresar la url que te ofrece el host e ingresarla en la página “Generador QR”</p>
+<head>
+  <title>Mi primer video</title>
+ 
+<center>
+<video src="file:///G:/paaaa/HTML%20PAGINA/HTML%20PAGINA/qr/hola.MOV" controls width="500" height="300"></video>
+<center>
+ <audio controls>
+    <source src="k.mp3" type="audio/mp3">
+    Tu navegador no soporta el elemento de audio.
+</audio>
+
+</tr>
+</table></center>
+</body>
+
+</html>
